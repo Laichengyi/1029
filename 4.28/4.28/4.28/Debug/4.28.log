@@ -1,0 +1,4 @@
+﻿  main.c
+c:\c_code\4.28\4.28\4.28\main.c(6): warning C4101: 'e': 未參考的區域變數
+c:\c_code\4.28\4.28\4.28\main.c(6): warning C4101: 'f': 未參考的區域變數
+  4.28.vcxproj -> C:\C_code\4.28\4.28\Debug\4.28.exe
